@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299993341631",
+    "firebase_url": "https://qaapp-8952f.firebaseio.com",
+    "project_id": "qaapp-8952f",
+    "storage_bucket": "qaapp-8952f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299993341631:android:81b05405eb140817",
+        "android_client_info": {
+          "package_name": "jp.rika.sumitomo.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299993341631-isv2ci74el9k9sdhnmnashm12uguds30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Sq3ZjDkToy7d-bUY0fU-W7ISU3GZPDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
